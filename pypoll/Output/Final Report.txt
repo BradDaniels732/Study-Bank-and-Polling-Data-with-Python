@@ -1,0 +1,11 @@
+Election Results
+--------------------------
+Total votes: 3,521,001
+--------------------------
+Candidate Correy, Pct of vote = 20.00%, Raw Vote = 704,200
+Candidate Khan, Pct of vote = 63.00%, Raw Vote = 2,218,231
+Candidate Li, Pct of vote = 14.00%, Raw Vote = 492,940
+Candidate O'Tooley, Pct of vote = 3.00%, Raw Vote = 105,630
+--------------------------
+Winner: Khan
+--------------------------

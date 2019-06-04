@@ -2,6 +2,6 @@ Financial Analysis
 --------------------------
 Total months: 86
 Total Profit: $38,382,578
-Average Daily Profit: $446,309.05
-Greatest Increase in Profits:  Feb-2012  $1,170,593
-Greatest Decrease in Profits:  Sep-2013  $-1,196,225
+Average Daily Profit: $-2,315.12
+Greatest Increase in Profits:  Feb-2012  $1,926,159
+Greatest Decrease in Profits:  Sep-2013  $-2,196,167
